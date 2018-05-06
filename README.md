@@ -1,6 +1,6 @@
 # DTM
 
-.. image:: logo.png
+.. image:: logo_DTM.jpg
 
 DTM is a transport model of Arctic Driftwood. Into the model, driftwood drifts with the sea ice as long as the sea ice is present (exprimed by a threshold). 
 
