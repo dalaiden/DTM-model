@@ -1,2 +1,3 @@
-# DTM-model
-Driftwood Transport Model
+# DTM
+
+DTM is a transport model of Arctic Driftwood.
