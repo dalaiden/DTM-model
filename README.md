@@ -12,3 +12,5 @@ The model needs 4 inputs:
 - Northward sea surface current
 - Sea ice concentration
 - Coordinates (longitudes and latitudes)
+
+![alt text](https://github.com/dalaiden/DTM-model/blob/master/example_DTM_output.jpg)
