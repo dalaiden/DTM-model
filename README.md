@@ -1,8 +1,8 @@
-# DTM
-
 ![alt text](https://github.com/dalaiden/DTM-model/blob/master/logo.png)
 
-DTM is a transport model of Arctic Driftwood. Into the model, driftwood drifts with the sea ice as long as the sea ice is present (exprimed by a threshold). 
+**DTM is a transport model of Arctic Driftwood.** 
+
+Into the model, driftwood drifts with the sea ice as long as the sea ice is present (exprimed by a threshold). 
 
 The model needs 4 inputs:
 
